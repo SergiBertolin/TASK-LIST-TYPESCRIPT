@@ -41,11 +41,11 @@ Vite
 
 Tailwind CSS 
 
-#⚡ Ejecución del proyecto
+# ⚡ Ejecución del proyecto
 
 Puedes ver la aplicación funcionando desde el enlace de Vercel
 
-#💡 Valor para empresas
+# 💡 Valor para empresas
 
 Este proyecto ejemplifica:
 
