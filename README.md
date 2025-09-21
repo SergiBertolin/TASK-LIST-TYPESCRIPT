@@ -41,7 +41,7 @@ Vite
 
 Tailwind CSS 
 
-# ⚡ Ejecución del proyecto
+# ⚡ Demo en producción
 
 Puedes ver la aplicación funcionando aquí:
 
