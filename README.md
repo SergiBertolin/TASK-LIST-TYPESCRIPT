@@ -1,4 +1,4 @@
-# 📝Task List (TypeScript + React)
+# 📝 Task List (TypeScript + React)
 
 Aplicación de lista de tareas desarrollada con TypeScript, React, Zustand y Vite.
 Este proyecto está orientado a demostrar buenas prácticas de desarrollo frontend, gestión de estado global y uso de tipado fuerte para garantizar escalabilidad y mantenibilidad.
