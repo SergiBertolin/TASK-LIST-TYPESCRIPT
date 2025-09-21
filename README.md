@@ -44,7 +44,6 @@ Demostrar buenas prácticas de arquitectura de componentes y organización de c�
 # ⚡ Demo en producción
 
 Se puede ver la aplicación desde la sección de About con un enlace directo a Vercel.
-[Task List en Vercel](https://task-list-typescript.vercel.app)
 
 # 💡 Valor para empresas
 
