@@ -31,15 +31,15 @@ Demostrar buenas prácticas de arquitectura de componentes y organización de c�
 
 # 🛠️ Tecnologías utilizadas
 
-React 18
+- React 18
 
-TypeScript 
+- TypeScript 
 
-Zustand 
+- Zustand 
 
-Vite 
+- Vite 
 
-Tailwind CSS 
+- Tailwind CSS 
 
 # ⚡ Demo en producción
 
