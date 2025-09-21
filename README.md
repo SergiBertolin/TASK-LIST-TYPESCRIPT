@@ -43,7 +43,8 @@ Tailwind CSS
 
 # ⚡ Ejecución del proyecto
 
-Puedes ver la aplicación funcionando desde el enlace de Vercel
+Puedes ver la aplicación funcionando aquí:  
+👉 [Demo en Vercel](https://task-list-typescript.vercel.app)
 
 # 💡 Valor para empresas
 
